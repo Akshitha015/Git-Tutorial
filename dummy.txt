@@ -1,3 +1,8 @@
 MAIN PROJECT 
+<<<<<<< HEAD
 ------:fnknfdkgnkdngkn
 jfjfjcfk
+=======
+------:
+this is newly add text
+>>>>>>> 1df3ae65bcc9b326901d605b9d76cb6ec59a66fb
